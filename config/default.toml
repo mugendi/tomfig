@@ -1,0 +1,10 @@
+# Environment independent configs
+[APP]
+name="My App"
+
+[TOOLS.language-support]
+python=">3.8"
+
+# Other configs
+[SERVER.API]
+domain="localhost:3000/default"
